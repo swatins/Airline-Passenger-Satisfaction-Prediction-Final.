@@ -1,0 +1,19 @@
+[ 2023-07-18 23:51:32,142] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-18 23:51:32,147] 187 werkzeug - INFO -  * Debugger PIN: 510-028-032
+[ 2023-07-18 23:51:34,986] 11 root - INFO - Main page is loaded !!
+[ 2023-07-18 23:51:34,993] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:51:34] "GET / HTTP/1.1" 200 -
+[ 2023-07-18 23:51:35,007] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:51:35] "[33mGET /airline_img1.jpg HTTP/1.1[0m" 404 -
+[ 2023-07-18 23:51:56,992] 118 root - INFO -  Data is entered in Dataframe !!
+[ 2023-07-18 23:51:56,992] 42 root - INFO - Sending data to pred pipeline !!
+[ 2023-07-18 23:51:57,323] 27 root - INFO - Models are loaded!!
+[ 2023-07-18 23:51:57,323] 29 root - INFO - Sending data for scaling and transformation!!
+[ 2023-07-18 23:51:57,331] 31 root - INFO - Feature transformation is done !!
+[ 2023-07-18 23:51:57,331] 33 root - INFO - Sending data for prediction!!
+[ 2023-07-18 23:51:57,370] 35 root - INFO -  Prediction is done!!
+[ 2023-07-18 23:51:57,392] 47 root - INFO - Got the result  !!
+[ 2023-07-18 23:51:57,405] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:51:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-07-18 23:51:57,418] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:51:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-18 23:51:57,420] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:51:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-18 23:51:57,749] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:51:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-18 23:51:58,002] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:51:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-18 23:52:09,586] 187 werkzeug - INFO -  * Detected change in 'D:\\SWATI ML\\Airline-Passenger-Satisfaction-Prediction-Final\\main.py', reloading

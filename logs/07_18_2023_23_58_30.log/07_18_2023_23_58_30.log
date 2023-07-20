@@ -1,0 +1,21 @@
+[ 2023-07-18 23:58:32,066] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-18 23:58:32,071] 187 werkzeug - INFO -  * Debugger PIN: 510-028-032
+[ 2023-07-18 23:58:32,742] 11 root - INFO - Main page is loaded !!
+[ 2023-07-18 23:58:32,749] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:58:32] "GET / HTTP/1.1" 200 -
+[ 2023-07-18 23:58:33,503] 11 root - INFO - Main page is loaded !!
+[ 2023-07-18 23:58:33,504] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:58:33] "GET / HTTP/1.1" 200 -
+[ 2023-07-18 23:58:34,384] 11 root - INFO - Main page is loaded !!
+[ 2023-07-18 23:58:34,384] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:58:34] "GET / HTTP/1.1" 200 -
+[ 2023-07-18 23:58:41,823] 11 root - INFO - Main page is loaded !!
+[ 2023-07-18 23:58:41,824] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:58:41] "GET / HTTP/1.1" 200 -
+[ 2023-07-18 23:59:26,959] 118 root - INFO -  Data is entered in Dataframe !!
+[ 2023-07-18 23:59:26,959] 42 root - INFO - Sending data to pred pipeline !!
+[ 2023-07-18 23:59:27,322] 27 root - INFO - Models are loaded!!
+[ 2023-07-18 23:59:27,322] 29 root - INFO - Sending data for scaling and transformation!!
+[ 2023-07-18 23:59:27,330] 31 root - INFO - Feature transformation is done !!
+[ 2023-07-18 23:59:27,330] 33 root - INFO - Sending data for prediction!!
+[ 2023-07-18 23:59:27,371] 35 root - INFO -  Prediction is done!!
+[ 2023-07-18 23:59:27,391] 47 root - INFO - Got the result  !!
+[ 2023-07-18 23:59:27,392] 53 root - INFO - The Passenger is [1.] with the airline: !!
+[ 2023-07-18 23:59:27,394] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:59:27] "POST / HTTP/1.1" 200 -
+[ 2023-07-18 23:59:27,414] 187 werkzeug - INFO - 127.0.0.1 - - [18/Jul/2023 23:59:27] "[33mGET /plane.jpg HTTP/1.1[0m" 404 -
